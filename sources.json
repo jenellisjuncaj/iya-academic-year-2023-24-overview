@@ -1,0 +1,14 @@
+{
+  "fall": {
+    "code": 20233,
+    "label": "Fall 2023"
+  },
+  "spring": {
+    "code": 20241,
+    "label": "Spring 2024"
+  },
+  "summer": {
+    "code": 20242,
+    "label": "Summer 2024"
+  }
+}
