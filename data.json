@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T20:57:34.020Z",
+  "generatedAt": "2026-11-22T21:07:47.801Z",
   "terms": {
     "summer": {
       "rows": [
@@ -133,8 +133,8 @@
       "code": 20242,
       "label": "Summer 2024",
       "url": "https://classes.usc.edu/term/20242/catalogue/school",
-      "snapshotAt": "2026-11-21T20:57:18.648Z",
-      "snapshot": "11/21/2026, 12:57:18 PM PST",
+      "snapshotAt": "2026-11-22T21:07:42.956Z",
+      "snapshot": "11/22/2026, 1:07:42 PM PST",
       "error": null
     },
     "fall": {
@@ -673,8 +673,8 @@
       "code": 20233,
       "label": "Fall 2023",
       "url": "https://classes.usc.edu/term/20233/catalogue/school",
-      "snapshotAt": "2026-11-21T20:57:20.935Z",
-      "snapshot": "11/21/2026, 12:57:20 PM PST",
+      "snapshotAt": "2026-11-22T21:07:46.395Z",
+      "snapshot": "11/22/2026, 1:07:46 PM PST",
       "error": null
     },
     "spring": {
@@ -1293,8 +1293,8 @@
       "code": 20241,
       "label": "Spring 2024",
       "url": "https://classes.usc.edu/term/20241/catalogue/school",
-      "snapshotAt": "2026-11-21T20:57:34.020Z",
-      "snapshot": "11/21/2026, 12:57:34 PM PST",
+      "snapshotAt": "2026-11-22T21:07:47.801Z",
+      "snapshot": "11/22/2026, 1:07:47 PM PST",
       "error": null
     }
   }
